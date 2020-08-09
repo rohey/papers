@@ -3,7 +3,7 @@
 - [ ]  Time Series Forecasting With Deep Learning: A Survey ✘ \
 https://arxiv.org/abs/2004.13408
 
-- [ ]  Bayesian Hyperparameter Optimization with BoTorch, GPyTorch and Ax ✓ \
+- [x]  Bayesian Hyperparameter Optimization with BoTorch, GPyTorch and Ax ✓ \
 https://arxiv.org/abs/1912.05686
 
 - [ ]  Averaging Weights Leads to Wider Optima and Better Generalization ✘ \
