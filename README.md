@@ -12,5 +12,5 @@ https://arxiv.org/abs/1803.05407
 - [ ]  An empirical analysis of the optimization of deep network loss surfaces ✘ \
 https://arxiv.org/abs/1612.04010
 
-- [ ] 
+- [ ] Weight Uncertainty in Neural Networks
 https://arxiv.org/abs/1505.05424 
