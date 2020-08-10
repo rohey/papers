@@ -14,3 +14,7 @@ https://arxiv.org/abs/1612.04010
 
 - [ ] Weight Uncertainty in Neural Networks \
 https://arxiv.org/abs/1505.05424 
+
+
+
+https://arxiv.org/abs/1905.02898
