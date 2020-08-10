@@ -15,9 +15,9 @@ https://arxiv.org/abs/1612.04010
 - [ ] Weight Uncertainty in Neural Networks \
 https://arxiv.org/abs/1505.05424 
 
-
-
+- [ ] A Generative Model for Sampling High-Performance and Diverse Weights for Neural Networks
 https://arxiv.org/abs/1905.02898
 
+- [x] GAN You Do the GAN GAN?
 https://arxiv.org/abs/1904.00724
 
