@@ -26,3 +26,6 @@ https://arxiv.org/pdf/1712.09913v3.pdf
 
 
 https://openreview.net/forum?id=r1VGvBcxl
+
+
+https://medium.com/@dmonn/how-does-an-a3c-work-4e02266d1a96
