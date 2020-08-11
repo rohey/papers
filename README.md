@@ -21,3 +21,7 @@ https://arxiv.org/abs/1905.02898
 - [x] GAN You Do the GAN GAN? \
 https://arxiv.org/abs/1904.00724
 
+- [ ] Visualizing the Loss Landscape of Neural Nets \
+https://arxiv.org/pdf/1712.09913v3.pdf
+
+
