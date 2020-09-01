@@ -15,7 +15,7 @@ https://arxiv.org/abs/1612.04010
 - [ ] Weight Uncertainty in Neural Networks \
 https://arxiv.org/abs/1505.05424 
 
-- [ ] A Generative Model for Sampling High-Performance and Diverse Weights for Neural Networks \
+- [x] A Generative Model for Sampling High-Performance and Diverse Weights for Neural Networks \
 https://arxiv.org/abs/1905.02898
 
 - [x] GAN You Do the GAN GAN? \
@@ -27,7 +27,7 @@ https://arxiv.org/pdf/1712.09913v3.pdf
 - [ ] Equivalence of backpropagation and contrastive Hebbian learning in a layered network \
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.9881&rep=rep1&type=pdf
 
-- [ ] Neural Network Quine \
+- [x] Neural Network Quine \
 https://arxiv.org/abs/1803.05859
 
 
