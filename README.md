@@ -27,6 +27,11 @@ https://arxiv.org/pdf/1712.09913v3.pdf
 - [ ] Equivalence of backpropagation and contrastive Hebbian learning in a layered network \
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.9881&rep=rep1&type=pdf
 
+- [ ] Neural Network Quine \
+https://arxiv.org/abs/1803.05859
+
+
+
 
 https://openreview.net/forum?id=r1VGvBcxl
 
