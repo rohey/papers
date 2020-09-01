@@ -30,6 +30,11 @@ https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.9881&rep=rep1&type=
 - [x] Neural Network Quine \
 https://arxiv.org/abs/1803.05859
 
+- [ ] Understanding and Improving Layer Normalization \
+https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization.pdf
+
+
+
 
 
 
