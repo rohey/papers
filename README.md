@@ -33,6 +33,8 @@ https://arxiv.org/abs/1803.05859
 - [ ] Understanding and Improving Layer Normalization \
 https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalization.pdf
 
+- [x] Proximal Policy Optimization Algorithms \
+https://arxiv.org/pdf/1707.06347.pdf
 
 
 
