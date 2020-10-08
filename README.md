@@ -45,6 +45,14 @@ https://arxiv.org/abs/2007.12927
 - [x] Proximal Policy Optimization Algorithms \
 https://arxiv.org/abs/1707.06347
 
+- [ ] Order Matters: Sequence to sequence for sets \
+https://arxiv.org/abs/1511.06391
+
+
+
+
+
+
 
 
 
