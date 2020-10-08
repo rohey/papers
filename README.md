@@ -42,6 +42,10 @@ https://arxiv.org/abs/1609.09106
 - [x] Economical ensembles with hypernetworks \
 https://arxiv.org/abs/2007.12927
 
+- [x] Proximal Policy Optimization Algorithms \
+https://arxiv.org/abs/1707.06347
+
+
 
 
 https://openreview.net/forum?id=r1VGvBcxl
