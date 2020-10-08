@@ -51,16 +51,16 @@ https://arxiv.org/abs/1511.06391
 - [ ] On Deep Set Learning and the Choice of Aggregations \
 https://arxiv.org/abs/1903.07348
 
-
-
-
-
-
-
-
-
-
+- [ ]  Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU \
 https://openreview.net/forum?id=r1VGvBcxl
+
+
+
+
+
+
+
+
 
 
 https://medium.com/@dmonn/how-does-an-a3c-work-4e02266d1a96
