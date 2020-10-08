@@ -48,6 +48,10 @@ https://arxiv.org/abs/1707.06347
 - [ ] Order Matters: Sequence to sequence for sets \
 https://arxiv.org/abs/1511.06391
 
+- [ ] On Deep Set Learning and the Choice of Aggregations \
+https://arxiv.org/abs/1903.07348
+
+
 
 
 
