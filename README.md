@@ -54,6 +54,9 @@ https://arxiv.org/abs/1903.07348
 - [ ]  Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU \
 https://openreview.net/forum?id=r1VGvBcxl
 
+- [ ]  TAMING THE WAVES: SINE AS ACTIVATION FUNCTION IN DEEP NEURAL NETWORKS \
+https://openreview.net/pdf?id=Sks3zF9eg
+
 
 
 
