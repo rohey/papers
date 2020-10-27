@@ -58,6 +58,8 @@ https://openreview.net/forum?id=r1VGvBcxl
 https://openreview.net/pdf?id=Sks3zF9eg
 
 
+- [ ]  GAUSSIAN ERROR LINEAR UNITS(GELUS) \
+https://arxiv.org/pdf/1606.08415.pdf
 
 
 
