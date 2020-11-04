@@ -61,6 +61,8 @@ https://openreview.net/pdf?id=Sks3zF9eg
 - [x]  GAUSSIAN ERROR LINEAR UNITS(GELUS) \
 https://arxiv.org/pdf/1606.08415.pdf
 
+- [x] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks \
+https://arxiv.org/pdf/1905.11946.pdf
 
 
 
