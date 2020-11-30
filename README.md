@@ -65,7 +65,7 @@ https://arxiv.org/pdf/1606.08415.pdf
 https://arxiv.org/pdf/1905.11946.pdf
 
 
-- [ ]  Learning to Reconstruct People in Clothing from a Single RGB Camera \
+- [x]  Learning to Reconstruct People in Clothing from a Single RGB Camera \
 https://arxiv.org/pdf/1903.05885.pdf
 
 
