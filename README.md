@@ -69,6 +69,8 @@ https://arxiv.org/pdf/1905.11946.pdf
 https://arxiv.org/pdf/1903.05885.pdf
 
 
+http://virtualhumans.mpi-inf.mpg.de/papers/lazova3dv2019/lazova3dv2019.pdf
+
 
 
 
