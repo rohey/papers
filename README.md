@@ -68,6 +68,12 @@ https://arxiv.org/pdf/1905.11946.pdf
 - [x]  Learning to Reconstruct People in Clothing from a Single RGB Camera \
 https://arxiv.org/pdf/1903.05885.pdf
 
+- [x] EMNIST: an extension of MNIST to handwritten letters \
+https://arxiv.org/pdf/1702.05373.pdf
+
+
+
+
 https://arxiv.org/pdf/1906.00695.pdf
 
 
