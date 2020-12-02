@@ -51,7 +51,7 @@ https://arxiv.org/abs/1511.06391
 - [ ] On Deep Set Learning and the Choice of Aggregations \
 https://arxiv.org/abs/1903.07348
 
-- [ ]  Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU \
+- [x]  Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU \
 https://openreview.net/forum?id=r1VGvBcxl
 
 - [x]  TAMING THE WAVES: SINE AS ACTIVATION FUNCTION IN DEEP NEURAL NETWORKS \
