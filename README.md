@@ -71,6 +71,17 @@ https://arxiv.org/pdf/1903.05885.pdf
 - [ ] EMNIST: an extension of MNIST to handwritten letters \
 https://arxiv.org/pdf/1702.05373.pdf
 
+
+https://arxiv.org/abs/1707.07012
+
+https://arxiv.org/abs/1704.04861
+
+https://arxiv.org/abs/1801.04381
+
+https://arxiv.org/abs/1905.02244
+
+
+
 https://arxiv.org/pdf/2007.03347v2.pdf
 
 https://arxiv.org/pdf/1911.09665.pdf
