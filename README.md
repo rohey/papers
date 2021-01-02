@@ -71,7 +71,7 @@ https://arxiv.org/pdf/1903.05885.pdf
 - [ ] EMNIST: an extension of MNIST to handwritten letters \
 https://arxiv.org/pdf/1702.05373.pdf
 
-
+- [x] Pixel Recurrent Neural Networks \
 https://arxiv.org/pdf/1601.06759.pdf
 
 https://arxiv.org/pdf/1911.04252.pdf
