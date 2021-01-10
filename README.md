@@ -74,6 +74,9 @@ https://arxiv.org/pdf/1702.05373.pdf
 - [x] Pixel Recurrent Neural Networks \
 https://arxiv.org/pdf/1601.06759.pdf
 
+
+https://arxiv.org/pdf/2007.00708.pdf
+
 https://arxiv.org/pdf/1911.04252.pdf
 
 https://arxiv.org/abs/1707.07012
