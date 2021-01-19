@@ -74,6 +74,10 @@ https://arxiv.org/pdf/1702.05373.pdf
 - [x] Pixel Recurrent Neural Networks \
 https://arxiv.org/pdf/1601.06759.pdf
 
+- [ ] Omniglot
+https://github.com/brendenlake/omniglot
+
+
 
 https://arxiv.org/pdf/2007.00708.pdf
 
