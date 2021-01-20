@@ -77,6 +77,8 @@ https://arxiv.org/pdf/1601.06759.pdf
 - [ ] Omniglot
 https://github.com/brendenlake/omniglot
 
+- [ ] StyleGAN
+https://nvlabs.github.io/stylegan2/versions.html
 
 
 https://arxiv.org/pdf/2007.00708.pdf
