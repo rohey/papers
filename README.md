@@ -84,6 +84,10 @@ https://nvlabs.github.io/stylegan2/versions.html
 https://arxiv.org/pdf/1803.08475.pdf
 
 
+
+https://blogs.mcgill.ca/gradlife/2013/02/13/how-to-write-a-conference-abstract-or-how-not-to-write-one/
+
+
 https://arxiv.org/pdf/2007.00708.pdf
 
 https://arxiv.org/pdf/1911.04252.pdf
