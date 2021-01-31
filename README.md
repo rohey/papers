@@ -15,11 +15,7 @@ https://arxiv.org/abs/1612.04010
 - [ ] Weight Uncertainty in Neural Networks \
 https://arxiv.org/abs/1505.05424 
 
-- [x] A Generative Model for Sampling High-Performance and Diverse Weights for Neural Networks \
-https://arxiv.org/abs/1905.02898
 
-- [x] GAN You Do the GAN GAN? \
-https://arxiv.org/abs/1904.00724
 
 - [ ] Visualizing the Loss Landscape of Neural Nets \
 https://arxiv.org/pdf/1712.09913v3.pdf
@@ -91,6 +87,13 @@ https://arxiv.org/abs/2007.12927
 - [x] Economical ensembles with hypernetworks \
 https://arxiv.org/pdf/2007.12927v1.pdf \
 https://deepai.org/publication/economical-ensembles-with-hypernetworks
+
+- [x] A Generative Model for Sampling High-Performance and Diverse Weights for Neural Networks \
+https://arxiv.org/abs/1905.02898
+
+- [x] GAN You Do the GAN GAN? \
+https://arxiv.org/abs/1904.00724
+
 
 # unassigned
 
