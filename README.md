@@ -32,11 +32,6 @@ https://papers.nips.cc/paper/8689-understanding-and-improving-layer-normalizatio
 - [x] Proximal Policy Optimization Algorithms \
 https://arxiv.org/pdf/1707.06347.pdf
 
-- [x] HyperNetworks \
-https://arxiv.org/abs/1609.09106
-
-
-
 - [x] Proximal Policy Optimization Algorithms \
 https://arxiv.org/abs/1707.06347
 
@@ -93,6 +88,9 @@ https://arxiv.org/abs/1905.02898
 
 - [x] GAN You Do the GAN GAN? \
 https://arxiv.org/abs/1904.00724
+
+- [x] HyperNetworks \
+https://arxiv.org/abs/1609.09106
 
 
 # unassigned
