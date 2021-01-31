@@ -39,8 +39,7 @@ https://arxiv.org/pdf/1707.06347.pdf
 - [x] HyperNetworks \
 https://arxiv.org/abs/1609.09106
 
-- [x] Economical ensembles with hypernetworks \
-https://arxiv.org/abs/2007.12927
+
 
 - [x] Proximal Policy Optimization Algorithms \
 https://arxiv.org/abs/1707.06347
@@ -82,6 +81,17 @@ https://nvlabs.github.io/stylegan2/versions.html
 
 - [ ] ATTENTION, LEARN TO SOLVE ROUTING PROBLEMS!
 https://arxiv.org/pdf/1803.08475.pdf
+
+
+# hypernetworks
+
+- [x] NEURAL NETWORKS WITH LATE-PHASE WEIGHTS \
+https://arxiv.org/abs/2007.12927
+
+- [x] Economical ensembles with hypernetworks \
+https://arxiv.org/pdf/2007.12927v1.pdf
+https://deepai.org/publication/economical-ensembles-with-hypernetworks
+
 
 
 
