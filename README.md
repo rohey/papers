@@ -93,6 +93,20 @@ https://arxiv.org/abs/1904.00724
 https://arxiv.org/abs/1609.09106
 
 
+# NAS
+
+
+- [ ] DARTS: DIFFERENTIABLE ARCHITECTURE SEARCH \
+https://arxiv.org/pdf/1806.09055.pdf
+
+- [ ] Fine-Tuning DARTS for Image Classification \
+https://arxiv.org/pdf/2006.09042v1.pdf
+
+
+
+
+
+
 # unassigned
 
 
