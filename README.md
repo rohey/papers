@@ -92,6 +92,10 @@ https://arxiv.org/abs/1904.00724
 - [x] HyperNetworks \
 https://arxiv.org/abs/1609.09106
 
+- [x] A Generative Model for Sampling High-Performance and
+Diverse Weights for Neural Networks \
+http://proceedings.mlr.press/v97/ratzlaff19a/ratzlaff19a.pdf
+
 
 # NAS
 
