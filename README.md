@@ -111,6 +111,11 @@ https://arxiv.org/pdf/2006.09042v1.pdf
 - [ ] Random Erasing Data Augmentation \
 https://arxiv.org/pdf/1708.04896v2.pdf
 
+# Normalization
+
+- [ ] Group Normalization \
+https://arxiv.org/pdf/1803.08494.pdf
+
 
 
 # ICLR conference 2021
