@@ -122,6 +122,11 @@ https://arxiv.org/pdf/1803.08494.pdf
 https://openreview.net/group?id=ICLR.cc/2021/Conference#oral-presentations
 
 
+# Combinatorial optimization
+
+- [ ] Deep Reinforcement Learning for Combinatorial Optimization: Covering Salesman Problems \
+https://arxiv.org/pdf/2102.05875.pdf
+
 
 
 # unassigned
