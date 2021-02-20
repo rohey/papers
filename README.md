@@ -99,6 +99,11 @@ http://proceedings.mlr.press/v97/ratzlaff19a/ratzlaff19a.pdf
 - [ ] Continual learning with hypernetworks \
 https://arxiv.org/abs/1906.00695
 
+- [ ] On the Modularity of Hypernetworks \
+https://arxiv.org/abs/2002.10006
+
+
+
 
 # NAS
 
