@@ -102,6 +102,11 @@ https://arxiv.org/abs/1906.00695
 - [ ] On the Modularity of Hypernetworks \
 https://arxiv.org/abs/2002.10006
 
+- [ ] Hypernetwork functional image representation \
+https://arxiv.org/abs/1902.10404
+
+- [ ] On Infinite-Width Hypernetworks \
+https://arxiv.org/abs/2003.12193
 
 
 
