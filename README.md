@@ -86,6 +86,9 @@ https://deepai.org/publication/economical-ensembles-with-hypernetworks
 - [x] A Generative Model for Sampling High-Performance and Diverse Weights for Neural Networks \
 https://arxiv.org/abs/1905.02898
 
+- [ ] HyperGAN: A Generative Model for Diverse, Performant Neural Networks \
+http://proceedings.mlr.press/v97/ratzlaff19a/ratzlaff19a.pdf
+
 - [x] GAN You Do the GAN GAN? \
 https://arxiv.org/abs/1904.00724
 
