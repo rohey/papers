@@ -74,6 +74,15 @@ https://nvlabs.github.io/stylegan2/versions.html
 https://arxiv.org/pdf/1803.08475.pdf
 
 
+# Self learning
+
+- [ ] Self-training with Noisy Student improves ImageNet classification \
+https://arxiv.org/pdf/1911.04252.pdf
+
+
+
+
+
 # hypernetworks
 
 - [x] NEURAL NETWORKS WITH LATE-PHASE WEIGHTS \
