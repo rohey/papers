@@ -120,6 +120,11 @@ https://arxiv.org/abs/1902.10404
 - [ ] On Infinite-Width Hypernetworks \
 https://arxiv.org/abs/2003.12193
 
+- [ ] Implicit Weight Uncertainty in Neural Networks \
+https://arxiv.org/pdf/1711.01297.pdf
+
+
+
 
 
 # NAS
