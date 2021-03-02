@@ -1,5 +1,9 @@
 # papers
 
+- [ ]  Deep Networks with Stochastic Depth \
+https://arxiv.org/pdf/1603.09382.pdf
+
+
 - [ ]  Time Series Forecasting With Deep Learning: A Survey \
 https://arxiv.org/abs/2004.13408
 
