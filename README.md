@@ -84,7 +84,7 @@ https://arxiv.org/pdf/1803.08475.pdf
 
 # Self learning
 
-- [ ] Self-training with Noisy Student improves ImageNet classification \
+- [x] Self-training with Noisy Student improves ImageNet classification \
 https://arxiv.org/pdf/1911.04252.pdf
 
 
