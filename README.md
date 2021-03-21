@@ -93,7 +93,7 @@ https://arxiv.org/pdf/1911.04252.pdf
 
 # hypernetworks
 
-- [] Approximating the predictive distribution via adversarially-trained hypernetworks \
+- [ ] Approximating the predictive distribution via adversarially-trained hypernetworks \
 https://www.ini.uzh.ch/~jpfister/papers/Henning_18a.pdf
 
 - [x] NEURAL NETWORKS WITH LATE-PHASE WEIGHTS \
