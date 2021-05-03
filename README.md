@@ -1,6 +1,6 @@
 # papers
 
-https://arxiv.org/pdf/1909.13719.pdf#page=10&zoom=100,66,533
+https://arxiv.org/abs/1708.04552
 
 https://arxiv.org/abs/1802.02375
 
