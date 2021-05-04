@@ -10,7 +10,7 @@ https://arxiv.org/abs/1705.07485
 - [x]  RandAugment: Practical automated data augmentation with a reduced search space \
 https://arxiv.org/abs/1909.13719
 
-- [ ]  Deep Networks with Stochastic Depth \
+- [x]  Deep Networks with Stochastic Depth \
 https://arxiv.org/pdf/1603.09382.pdf
 
 
