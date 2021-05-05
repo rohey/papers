@@ -1,5 +1,8 @@
 # papers
 
+- [ ]  Bayesian Hyperparameter Optimization with BoTorch, GPyTorch and Ax \
+https://arxiv.org/abs/1912.05686
+
 https://arxiv.org/abs/1802.10026
 
 https://arxiv.org/abs/1803.03764
@@ -21,10 +24,7 @@ https://arxiv.org/pdf/1603.09382.pdf
 - [ ]  Time Series Forecasting With Deep Learning: A Survey \
 https://arxiv.org/abs/2004.13408
 
-- [x]  Bayesian Hyperparameter Optimization with BoTorch, GPyTorch and Ax \
-https://arxiv.org/abs/1912.05686
-
-- [ ]  Averaging Weights Leads to Wider Optima and Better Generalization \
+- [x]  Averaging Weights Leads to Wider Optima and Better Generalization \
 https://arxiv.org/abs/1803.05407
 
 - [ ]  An empirical analysis of the optimization of deep network loss surfaces  \
