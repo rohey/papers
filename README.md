@@ -1,5 +1,8 @@
 # papers
 
+- [ ]  Fine-Tuning DARTS for Image Classification \
+https://arxiv.org/pdf/2006.09042v1.pdf
+
 - [ ]  Bayesian Hyperparameter Optimization with BoTorch, GPyTorch and Ax \
 https://arxiv.org/abs/1912.05686
 
