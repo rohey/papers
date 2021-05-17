@@ -10,8 +10,11 @@ https://arxiv.org/abs/1802.10026
 
 https://arxiv.org/abs/1803.03764
 
-Improved Regularization of Convolutional Neural Networks with Cutout
-- [ ]  https://arxiv.org/abs/1708.04552
+- [ ] Improved Regularization of Convolutional Neural Networks with Cutout
+https://arxiv.org/abs/1708.04552
+
+- [ ] Random Erasing Data Augmentation
+https://arxiv.org/abs/1708.04896
 
 https://arxiv.org/abs/1802.02375
 
