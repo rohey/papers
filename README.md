@@ -3,7 +3,7 @@
 - [x]  Fine-Tuning DARTS for Image Classification \
 https://arxiv.org/pdf/2006.09042v1.pdf
 
-- [ ]  Bayesian Hyperparameter Optimization with BoTorch, GPyTorch and Ax \
+- [x]  Bayesian Hyperparameter Optimization with BoTorch, GPyTorch and Ax \
 https://arxiv.org/abs/1912.05686
 
 https://arxiv.org/abs/1802.10026
