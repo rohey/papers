@@ -97,7 +97,7 @@ https://github.com/brendenlake/omniglot
 - [ ] StyleGAN \
 https://nvlabs.github.io/stylegan2/versions.html
 
-- [ ] ATTENTION, LEARN TO SOLVE ROUTING PROBLEMS! \
+- [ ] Attention, Learn to Solve Routing Problems! \
 https://arxiv.org/pdf/1803.08475.pdf
 
 
