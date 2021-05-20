@@ -91,13 +91,13 @@ https://arxiv.org/pdf/1702.05373.pdf
 - [x] Pixel Recurrent Neural Networks \
 https://arxiv.org/pdf/1601.06759.pdf
 
-- [ ] Omniglot
+- [ ] Omniglot \
 https://github.com/brendenlake/omniglot
 
-- [ ] StyleGAN
+- [ ] StyleGAN \
 https://nvlabs.github.io/stylegan2/versions.html
 
-- [ ] ATTENTION, LEARN TO SOLVE ROUTING PROBLEMS!
+- [ ] ATTENTION, LEARN TO SOLVE ROUTING PROBLEMS! \
 https://arxiv.org/pdf/1803.08475.pdf
 
 
