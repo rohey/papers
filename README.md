@@ -10,8 +10,10 @@ https://arxiv.org/pdf/2006.09042v1.pdf
 - [x]  Bayesian Hyperparameter Optimization with BoTorch, GPyTorch and Ax \
 https://arxiv.org/abs/1912.05686
 
+- [ ]  Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs \
 https://arxiv.org/abs/1802.10026
 
+- [ ] Variance Networks: When Expectation Does Not Meet Your Expectations \
 https://arxiv.org/abs/1803.03764
 
 - [ ] Improved Regularization of Convolutional Neural Networks with Cutout \
@@ -20,17 +22,17 @@ https://arxiv.org/abs/1708.04552
 - [ ] Random Erasing Data Augmentation \
 https://arxiv.org/abs/1708.04896
 
+- [ ] ShakeDrop Regularization for Deep Residual Learning \ 
 https://arxiv.org/abs/1802.02375
 
+- [ ] Shake-Shake regularization \
 https://arxiv.org/abs/1705.07485
-
 
 - [x]  RandAugment: Practical automated data augmentation with a reduced search space \
 https://arxiv.org/abs/1909.13719
 
 - [x]  Deep Networks with Stochastic Depth \
 https://arxiv.org/pdf/1603.09382.pdf
-
 
 - [ ]  Time Series Forecasting With Deep Learning: A Survey \
 https://arxiv.org/abs/2004.13408
