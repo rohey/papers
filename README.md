@@ -46,8 +46,6 @@ https://arxiv.org/abs/1612.04010
 - [ ] Weight Uncertainty in Neural Networks \
 https://arxiv.org/abs/1505.05424 
 
-
-
 - [ ] Visualizing the Loss Landscape of Neural Nets \
 https://arxiv.org/pdf/1712.09913v3.pdf
 
@@ -78,13 +76,11 @@ https://openreview.net/forum?id=r1VGvBcxl
 - [x]  TAMING THE WAVES: SINE AS ACTIVATION FUNCTION IN DEEP NEURAL NETWORKS \
 https://openreview.net/pdf?id=Sks3zF9eg
 
-
 - [x]  GAUSSIAN ERROR LINEAR UNITS(GELUS) \
 https://arxiv.org/pdf/1606.08415.pdf
 
 - [x] EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks \
 https://arxiv.org/pdf/1905.11946.pdf
-
 
 - [x]  Learning to Reconstruct People in Clothing from a Single RGB Camera \
 https://arxiv.org/pdf/1903.05885.pdf
