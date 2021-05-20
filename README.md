@@ -22,7 +22,7 @@ https://arxiv.org/abs/1708.04552
 - [ ] Random Erasing Data Augmentation \
 https://arxiv.org/abs/1708.04896
 
-- [ ] ShakeDrop Regularization for Deep Residual Learning \ 
+- [ ] ShakeDrop Regularization for Deep Residual Learning \
 https://arxiv.org/abs/1802.02375
 
 - [ ] Shake-Shake regularization \
