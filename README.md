@@ -1,16 +1,19 @@
 # papers
 
 
-- [x]  Attention Is All You Need \
+- [x] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale \
+https://arxiv.org/abs/2010.11929
+
+- [x] Attention Is All You Need \
 https://arxiv.org/abs/1706.03762
 
-- [x]  Fine-Tuning DARTS for Image Classification \
+- [x] Fine-Tuning DARTS for Image Classification \
 https://arxiv.org/pdf/2006.09042v1.pdf
 
-- [x]  Bayesian Hyperparameter Optimization with BoTorch, GPyTorch and Ax \
+- [x] Bayesian Hyperparameter Optimization with BoTorch, GPyTorch and Ax \
 https://arxiv.org/abs/1912.05686
 
-- [ ]  Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs \
+- [ ] Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs \
 https://arxiv.org/abs/1802.10026
 
 - [ ] Variance Networks: When Expectation Does Not Meet Your Expectations \
