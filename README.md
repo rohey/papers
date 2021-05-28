@@ -13,7 +13,7 @@ https://arxiv.org/pdf/2006.09042v1.pdf
 - [x] Bayesian Hyperparameter Optimization with BoTorch, GPyTorch and Ax \
 https://arxiv.org/abs/1912.05686
 
-- [ ] Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs \
+- [x] Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs \
 https://arxiv.org/abs/1802.10026
 
 - [ ] Variance Networks: When Expectation Does Not Meet Your Expectations \
