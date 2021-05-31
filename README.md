@@ -16,7 +16,7 @@ https://arxiv.org/abs/1912.05686
 - [x] Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs \
 https://arxiv.org/abs/1802.10026
 
-- [ ] Variance Networks: When Expectation Does Not Meet Your Expectations \
+- [x] Variance Networks: When Expectation Does Not Meet Your Expectations \
 https://arxiv.org/abs/1803.03764
 
 - [ ] Improved Regularization of Convolutional Neural Networks with Cutout \
