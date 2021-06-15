@@ -6,6 +6,9 @@ http://mmacklin.com/smallsteps.pdf
 - [ ] Optimization Integrator for Large Time Steps \
 https://www.math.ucla.edu/~jteran/papers/GSSJT15.pdf
 
+- [ ] IMAGENET-TRAINED CNNS ARE BIASED TOWARDS TEXTURE; INCREASING SHAPE BIAS IMPROVES ACCURACY AND ROBUSTNESS \
+https://openreview.net/pdf?id=Bygh9j09KX
+
 - [x] Position Based Fluids \
 https://mmacklin.com/pbf_sig_preprint.pdf
 
