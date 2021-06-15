@@ -3,6 +3,9 @@
 - [ ] Small Steps in Physics Simulation \
 http://mmacklin.com/smallsteps.pdf
 
+- [ ] Optimization Integrator for Large Time Steps \
+https://www.math.ucla.edu/~jteran/papers/GSSJT15.pdf
+
 - [x] Position Based Fluids \
 https://mmacklin.com/pbf_sig_preprint.pdf
 
