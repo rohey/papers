@@ -1,6 +1,6 @@
 # papers
 
-- [ ] Small Steps in Physics Simulation \
+- [x] Small Steps in Physics Simulation \
 http://mmacklin.com/smallsteps.pdf
 
 - [ ] Optimization Integrator for Large Time Steps \
