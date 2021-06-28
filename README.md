@@ -1,5 +1,8 @@
 # papers
 
+- [x] InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets \
+https://arxiv.org/abs/1606.03657
+
 - [x] Small Steps in Physics Simulation \
 http://mmacklin.com/smallsteps.pdf
 
