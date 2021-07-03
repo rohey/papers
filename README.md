@@ -1,6 +1,6 @@
 # papers
 
-- [ ] Adversarial Examples Improve Image Recognition \
+- [x] Adversarial Examples Improve Image Recognition \
 https://arxiv.org/pdf/1911.09665v2.pdf
 
 - [x] InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets \
