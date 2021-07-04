@@ -1,7 +1,8 @@
 # papers
 
 
-
+- [ ] An Investigation into Neural Net Optimization via Hessian Eigenvalue Density \
+https://arxiv.org/abs/1901.10159
 
 - [ ] Beyond Synthetic Noise: Deep Learning on Controlled Noisy Labels \
 https://arxiv.org/abs/1911.09781
