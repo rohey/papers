@@ -1,6 +1,9 @@
 # papers
 
 
+- [ ] Fantastic Generalization Measures and Where to Find Them \
+https://arxiv.org/abs/1912.02178
+
 - [ ] An Investigation into Neural Net Optimization via Hessian Eigenvalue Density \
 https://arxiv.org/abs/1901.10159
 
