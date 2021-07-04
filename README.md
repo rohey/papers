@@ -1,5 +1,9 @@
 # papers
 
+
+- [ ] SHARPNESS-AWARE MINIMIZATION FOR EFFICIENTLY IMPROVING GENERALIZATION \
+https://arxiv.org/pdf/2010.01412v3.pdf
+
 - [x] Adversarial Examples Improve Image Recognition \
 https://arxiv.org/pdf/1911.09665v2.pdf
 
