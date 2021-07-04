@@ -1,5 +1,7 @@
 # papers
 
+https://arxiv.org/abs/2006.05720
+
 - [ ] Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption \
 https://arxiv.org/abs/2006.05620
 
