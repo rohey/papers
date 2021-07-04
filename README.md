@@ -1,5 +1,7 @@
 # papers
 
+- [ ] Exploring the Vulnerability of Deep Neural Networks: A Study of Parameter Corruption \
+https://arxiv.org/abs/2006.05620
 
 - [ ] Fantastic Generalization Measures and Where to Find Them \
 https://arxiv.org/abs/1912.02178
