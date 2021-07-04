@@ -1,6 +1,11 @@
 # papers
 
 
+
+
+- [ ] Visualizing the Loss Landscape of Neural Nets \
+https://arxiv.org/abs/1712.09913
+
 - [ ] SHARPNESS-AWARE MINIMIZATION FOR EFFICIENTLY IMPROVING GENERALIZATION \
 https://arxiv.org/pdf/2010.01412v3.pdf
 
