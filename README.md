@@ -3,6 +3,9 @@
 
 
 
+- [ ] Beyond Synthetic Noise: Deep Learning on Controlled Noisy Labels \
+https://arxiv.org/abs/1911.09781
+
 - [ ] Visualizing the Loss Landscape of Neural Nets \
 https://arxiv.org/abs/1712.09913
 
