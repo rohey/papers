@@ -40,7 +40,7 @@ https://arxiv.org/abs/1802.10026
 - [x] Variance Networks: When Expectation Does Not Meet Your Expectations \
 https://arxiv.org/abs/1803.03764
 
-- [ ] Improved Regularization of Convolutional Neural Networks with Cutout \
+- [x] Improved Regularization of Convolutional Neural Networks with Cutout \
 https://arxiv.org/abs/1708.04552
 
 - [ ] Random Erasing Data Augmentation \
